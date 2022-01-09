@@ -7,7 +7,11 @@ AFTER SSH
 kidzeebalagere.com
 File path : /home/ubuntu/deployments/udayschool
 
-Find container Id : Cmd : sudo docker ps Ex :ac912a431837 narendra/tetrasystems.io:version-1.1
+Find container Id : 
+
+Cmd : sudo docker ps 
+
+Ex :13a208001092   kidzeebalagere-static:version-1.1 
 
 Stop : container
 
