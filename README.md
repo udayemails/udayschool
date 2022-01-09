@@ -5,7 +5,7 @@ kidzeebalagere.com
 AFTER SSH
 
 kidzeebalagere.com
-File path : /home/ubuntu/deployments/tudayschool
+File path : /home/ubuntu/deployments/udayschool
 
 Find container Id : Cmd : sudo docker ps Ex :ac912a431837 narendra/tetrasystems.io:version-1.1
 
