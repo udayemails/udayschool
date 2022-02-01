@@ -146,6 +146,7 @@ header nav ul li a .fa-home,
 .post-img > a,
 .post-info a,
 .full-posts a,
+.full-img a,
 .widget-instagram ul li img,
 .blog-post-info > a,
 .btn-submit button,
@@ -1978,6 +1979,35 @@ header.hp2 .cart-opt a {
 	background-size: contain;
 }
 .full-posts a:hover {
+	color: #fff;
+}
+
+.full-img {
+	float: left;
+	width: 100%;
+	text-align: left;
+}
+.full-img a {
+	display: inline-block;
+	color: #ffffff;
+	font-size: 21px;
+	background-color: #6c458e;
+	text-transform: uppercase;
+	font-weight: 700;
+	background-color: #6c458e;
+	border: 2px solid #5d3580;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+	padding: 15px 5px;
+	background-image: url(../images/bg-vector-lg.png);
+	background-repeat: repeat-x;
+	background-position: center center;
+	background-size: contain;
+}
+.full-img a:hover {
 	color: #fff;
 }
 
